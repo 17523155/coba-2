@@ -26,7 +26,7 @@
   <body id="page-top">
 
     <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark"  style="background-color: #1c1e21">
+<nav class="navbar navbar-expand-lg navbar-light"  style="background-color: #1c1e21">
       <div class="container">
         <a class="navbar-brand" href="/homepage">
     <img src="https://lh3.googleusercontent.com/-aj8JHSQ4bmE/XAu0Zmu0EBI/AAAAAAAAXyA/Y1eE5evuCx0xff1nb2-RfylarszgnIHkgCJoC/w530-h508-n-rw/slir.png" width="30" height="30" alt=""></a>
