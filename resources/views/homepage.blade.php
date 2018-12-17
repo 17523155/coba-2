@@ -66,7 +66,7 @@
     <!-- Header -->
     <header class="mastheadhome d-flex" id="laporr">
       <div class="container text-center my-auto">
-        <h1 style="color: white">SLIR!</h1>
+        <h1 style="color: white">heyy tayo!</h1>
         <h3 style="color: white">
           <em>Situs Lapor Infrastruktur Rusak</em>
         </h3><br><br><br><br>
